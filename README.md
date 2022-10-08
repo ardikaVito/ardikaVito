@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vito Ardika Saputra
-- 👀 I have no talent, but my curiosity is beyond horizon
+- 👀 I have no talent, however my curiosity is beyond horizon
 - 🌱 I like both natural && social science
 - 💞️ 
 - 📫 
