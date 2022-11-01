@@ -1,4 +1,6 @@
-- 👋 Hi, I’m Vito Ardika Saputra
+`let name = 'Vito Ardika Saputra'`
+
+- 👋 Hi, I’m `${name}`
 - 👀 I have no talent, however my curiosity is beyond horizon
 - 🌱 I like both natural && social science
 - 💞️ 
