@@ -5,14 +5,12 @@
 - 📫 
 
 ## Language & Tools
-||||
-|-|-|-|
-| HTML/CSS | ✧✧✧✧✧ | Build a responsive website with is fun (: |
-| Javascript | ✧✧✧✧ | Attach an interactive program to app |
-| Typescript | ✧✧ ||        
-| React |          ||
-| PHP | ✧✧✧   ||
-| Laravel | ✧✧✧ ||
+|          |       |                         |                                          |
+|-         |-      |-                        |-                                         |
+|HTML/CSS  |\***** |Scss, Bootstrap, Tailwind|Build a responsive website with is fun (: |
+|Javascript|\****  |React                    |Attach an interactive program to app      |
+|Typescript|\***   |                         |                                          |        
+|PHP       |\***   |Laravel                  |                                          |
 
 <!---
 ardikaVito/ardikaVito is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
