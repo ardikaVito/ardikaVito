@@ -11,6 +11,7 @@
 |Javascript|\****  |React                    |Attach an interactive program to app      |
 |Typescript|\***   |                         |                                          |        
 |PHP       |\***   |Laravel                  |                                          |
+|          |       |                         |                                          |
 
 <!---
 ardikaVito/ardikaVito is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
