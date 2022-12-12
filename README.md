@@ -5,13 +5,13 @@
 - 📫 
 
 ## Language & Tools
-| |          |       |                         |                                          | |
-|-|-         |-      |-                        |-                                         |-|
-| |HTML/CSS  |\***** |Scss, Bootstrap, Tailwind|Build a responsive website with is fun (: | |
-| |Javascript|\****  |React                    |Attach an interactive program to app      | |
-| |Typescript|\***   |                         |                                          | |       
-| |PHP       |\***   |Laravel                  |                                          | |
-| |          |       |                         |                                          | |
+|          |       |                         |                                          | |
+|-         |-      |-                        |-                                         |-|
+|HTML/CSS  |\***** |Scss, Bootstrap, Tailwind|Build a responsive website with is fun (: |🟢|
+|Javascript|\****  |React                    |Attach an interactive program to app      |🟢|
+|Typescript|\***   |                         |                                          |🟢|       
+|PHP       |\***   |Laravel                  |                                          |🔴|
+|          |       |                         |                                          | |
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ardikavito) -->
 <!---
