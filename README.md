@@ -8,8 +8,9 @@
 |          |       |                         |                                          | |
 |-         |-      |-                        |-                                         |-|
 |HTML/CSS  |\***** |Scss, Bootstrap, Tailwind|Build a responsive website with is fun (: |🟢|
-|Javascript|\****  |React                    |Attach an interactive program to app      |🟢|
-|Typescript|\***   |                         |                                          |🟢|       
+|Javascript|\****  |                         |Attach an interactive program to app      |🟢|
+|Typescript|\***   |                         |                                          |🟢|
+|React     |\***   |                         |                                          |🟢|       
 |PHP       |\***   |Laravel                  |                                          |🔴|
 |          |       |                         |                                          | |
 
