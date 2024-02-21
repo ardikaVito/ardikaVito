@@ -10,7 +10,7 @@
 |HTML      |\***** |JSX                           |                                          |🟢|
 |CSS       |\***** |Scss, Bootstrap, Tailwind     |Build a responsive website with is fun (: |🟢|
 |Javascript|\****  |Typescript, Node, Deno, React |Attach an interactive program to app      |🟢|
-|React     |\***   |                              |                                          |🟢|       
+|Dart      |\***   |Flutter                       |                                          |🟢|       
 |PHP       |\***   |Laravel                       |                                          |🔴|
 |          |       |                              |                                          | |
 
